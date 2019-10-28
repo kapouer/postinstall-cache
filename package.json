@@ -1,0 +1,19 @@
+{
+  "name": "postinstall-cache",
+  "version": "0.5.0",
+  "description": "Cache for postinstall-* modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapouer/postinstall-cache.git"
+  },
+  "author": "Jérémy Lal <kapouer@melix.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapouer/postinstall-cache/issues"
+  },
+  "homepage": "https://github.com/kapouer/postinstall-cache#readme"
+}
