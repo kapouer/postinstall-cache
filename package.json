@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kapouer/postinstall-cache/issues"
   },
-  "homepage": "https://github.com/kapouer/postinstall-cache#readme"
+  "homepage": "https://github.com/kapouer/postinstall-cache#readme",
+  "dependencies": {
+    "cacache": "^13.0.1"
+  }
 }
