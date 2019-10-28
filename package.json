@@ -1,7 +1,7 @@
 {
   "name": "postinstall-cache",
-  "version": "0.5.0",
-  "description": "Cache for postinstall-* modules",
+  "version": "0.6.0",
+  "description": "Cache for 'postinstall' modules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/kapouer/postinstall-cache#readme",
   "dependencies": {
-    "cacache": "^13.0.1"
+    "cacache": "^13.0.1",
+    "fast-safe-stringify": "^2.0.7",
+    "ssri": "^7.1.0",
+    "worker-nodes": "^1.6.1"
   }
 }
