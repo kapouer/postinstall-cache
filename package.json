@@ -1,6 +1,6 @@
 {
   "name": "postinstall-cache",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Cache for 'postinstall' modules",
   "main": "index.js",
   "scripts": {
